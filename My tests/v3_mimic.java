@@ -36,7 +36,7 @@ public class v3_mimic {
                 break;
         }
         
-        //Homework problem #2 from video 3.
+        //Homework problem #2 from video 3. (A conditional statment where entering the number of a month in its chronological order would prompt the name of the month)
         System.out.println("Enter a number from 1-12");
         int m = canon.nextInt();
         System.out.println("This is the month the number corresponds to: ");

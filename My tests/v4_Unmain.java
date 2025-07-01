@@ -5,16 +5,16 @@ public class v4_Unmain {
       //Prints the sum of all natural from numbers from 0 to n.
       //Placed the line "System.out.println(sum);" inside the for loop brackets to print all the sum following up to n. Place it outside the brackets to just print the final sum.
       Scanner rocky = new Scanner(System.in);
-      // System.out.println("Enter any random number:");
-      // int i = rocky.nextInt();
-      // int sum = 0;
+      System.out.println("Enter any random number:");
+      int i = rocky.nextInt();
+      int sum = 0;
       
 
-      // for(int n = 0; n <= i; n++ ) {
-      //   sum = (sum + n);
-      //   System.out.println(sum);
-      // } 
-
+      for(int n = 0; n <= i; n++ ) {
+        sum = (sum + n);
+        System.out.println(sum);
+      } 
+      
       // for( ; ; ) System.out.println("Today is tuesday");
       
       // //3rd Homework problem from video 4.

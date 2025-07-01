@@ -1,7 +1,7 @@
 public class v4_Main {
     public static void main(String[] args) {
         
-        //counter++ => counter = counter +1
+        //counter++ (is the same as) counter = counter +1
         //Hereunder is a for loop 
         for(int counter1 = 0; counter1 <11; counter1++) {
             System.out.print(counter1+" ");
